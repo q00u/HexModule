@@ -1,5 +1,5 @@
 #include "register_types.h"
-#include "class_db.h"
+#include <core/class_db.h>
 #include "HexGrid.h"
 
 void register_hex_types() {
